@@ -1,2 +1,3 @@
-# LX1253
-Progetto LX1253 in rivista Nuova Elettronica n. 184
+# repository per sviluppo progetto LX1253 Nuova Elettronica n. 184
+
+Nella directory *DOC* si trova un pò di documentazione 
