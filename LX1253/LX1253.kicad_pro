@@ -1,5 +1,28 @@
 {
   "board": {
+    "design_settings": {
+      "defaults": {
+        "board_outline_line_width": 0.1,
+        "copper_line_width": 0.2,
+        "copper_text_size_h": 1.5,
+        "copper_text_size_v": 1.5,
+        "copper_text_thickness": 0.3,
+        "other_line_width": 0.15,
+        "silk_line_width": 0.15,
+        "silk_text_size_h": 1.0,
+        "silk_text_size_v": 1.0,
+        "silk_text_thickness": 0.15
+      },
+      "diff_pair_dimensions": [],
+      "drc_exclusions": [],
+      "rules": {
+        "min_copper_edge_clearance": 0.0,
+        "solder_mask_clearance": 0.0,
+        "solder_mask_min_width": 0.0
+      },
+      "track_widths": [],
+      "via_dimensions": []
+    },
     "layer_presets": []
   },
   "boards": [],
@@ -216,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "lx1253.kicad_pro",
+    "filename": "LX1253.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -277,6 +300,15 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -286,7 +318,7 @@
   },
   "sheets": [
     [
-      "a1545928-1195-40b9-b3c4-78f837012afb",
+      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
     ]
   ],
